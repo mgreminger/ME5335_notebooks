@@ -28,3 +28,7 @@ Below are the lessons and tutorial videos I use for my course. The videos refer 
 ## Lesson 6: Modal Superposition Dynamic Simulation
 * [Lesson 6 Notebook](https://colab.research.google.com/github/mgreminger/ME5335_notebooks/blob/master/HW6_empty.ipynb)
 * [Lesson 6 Tutorial Video](https://youtu.be/MYc-Dh_wpSI)
+
+## Lesson 7: Transient Heat Transfer Analysis using Explicit Dynamics
+* [Lesson 7 Notebook](https://colab.research.google.com/github/mgreminger/ME5335_notebooks/blob/master/lecture_transient_heat_transfer_example.ipynb)
+* [Lesson 7 Tutorial Video](https://youtu.be/OD9uz3cZbWo)
